@@ -1,0 +1,1 @@
+Clientes = new Meteor.Collection('clientes')
