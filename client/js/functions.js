@@ -1,6 +1,5 @@
 Meteor.subscribe('clientes')
 
-
 $(document).ready(function(){
 	$('.mostrarInformacion').click(function(e){
 		e.preventDefault()
